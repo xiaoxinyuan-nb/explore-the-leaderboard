@@ -14,6 +14,10 @@
 ### Sudoku
  [SudokuPrintables.net](https://sudokuprintables.net) 开始探索
 
+## 🌈 卡牌类
+### Tarot
+ [Yes or No Tarot](https://yesornotarot) 开始探索
+
 ## 📝 反馈
 
 如果您有任何问题或建议,欢迎提交 issue 或 PR
