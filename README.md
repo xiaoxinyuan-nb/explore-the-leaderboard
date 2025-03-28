@@ -16,7 +16,7 @@
 
 ## 🌈 卡牌类
 ### Tarot
- [Yes or No Tarot](https://yesornotarot) 开始探索
+ [Yes or No Tarot](https://yesornotarot.co) 开始探索
 
 ## 📝 反馈
 
